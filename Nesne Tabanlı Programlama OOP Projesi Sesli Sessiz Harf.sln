@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.32112.339
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Nesne Tabanlı Programlama OOP Projesi Sesli Sessiz Harf", "Nesne Tabanlı Programlama OOP Projesi Sesli Sessiz Harf\Nesne Tabanlı Programlama OOP Projesi Sesli Sessiz Harf.csproj", "{BECFA7C3-0242-49BC-80FD-57A8CAFC6A54}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BECFA7C3-0242-49BC-80FD-57A8CAFC6A54}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BECFA7C3-0242-49BC-80FD-57A8CAFC6A54}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BECFA7C3-0242-49BC-80FD-57A8CAFC6A54}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BECFA7C3-0242-49BC-80FD-57A8CAFC6A54}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {05F74AF1-B522-402E-B5B9-23DC0002F7EC}
+	EndGlobalSection
+EndGlobal
